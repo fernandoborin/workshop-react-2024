@@ -26,7 +26,7 @@ export function Form(props: FormProps) {
                         className="h-[50px] pl-4 pr-4 bg-slate-400 rounded-lg font-bold"
                         type="submit"
                     >
-                        <Plus className="text-slate-900 text-2xl" />
+                        <Plus className="text-slate-100 text-2xl" />
                     </button>
                 </div>
             </form>
